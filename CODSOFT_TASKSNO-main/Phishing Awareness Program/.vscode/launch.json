@@ -1,0 +1,11 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "editor-browser",
+            "request": "launch",
+            "name": "Open PhishGuard",
+            "url": "${workspaceFolder}/Cybersecurity Internship – Task 2 Phishing Awareness Program/index.html"
+        }
+    ]
+}
